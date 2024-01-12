@@ -1,0 +1,154 @@
+ .business-box{
+    width:320px;
+    background-color: rgb(15, 231, 109) ;
+    padding:100px 60px;
+    margin:100px auto;
+    border-radius: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+.idea{
+    font-size:11px;
+    
+    
+}
+.btn{
+    border:none;
+    padding: 15px 30px;
+    background-color:aliceblue;
+    border-radius: 25px;
+    margin-top: 15px ;
+}
+
+
+ .login-box{
+    width: 220px;
+    margin:50px auto;
+    text-align: center;
+    background-color: white;
+    
+    
+}
+
+input{
+    width:100%;
+    box-sizing: border-box;
+}
+
+.email,.password{
+    padding:13px ;
+    margin-bottom: 12px;
+    border: 1px solid lightgray;
+    border-radius: 11px;
+    color:grey;
+    border-color: grey;
+}
+
+.btn-2{
+    border: none;
+    padding:15px 30px;
+    border-radius: 25px;
+    margin-top: 10px;
+    color: white;
+    background-color: rgb(0,0,0);
+
+}
+
+
+.login-signup{
+    margin-top:25px;
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+.login-fgpss{
+    margin-top:0px;
+    padding-top:0px;
+    font-size: 12px;
+}  
+
+.login-box a{
+    color:black
+}
+.login-foot{
+    font-size: 11px;
+    color:grey;
+}
+
+
+.g-box{
+    width:450px;
+    margin:60px auto;
+    border:1px solid lightgray;
+    border-radius: 10px;
+    
+}
+
+.g-box img{
+    width:100%;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+}
+
+.txt{
+    text-align: left;
+    margin: 25px;
+    
+    }
+.txt h2{
+    margin-top: 0px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.decsrp{
+    color: gray;
+    margin-top: 0px;
+}
+
+.g-box button{
+    border:1px solid lightgray;
+    background-color: white;
+    color: rgb(10, 106, 210);
+    padding:10px 25px;
+    margin-top: 10px;
+    
+    border-radius: 5px;
+    
+}
+
+.w-box{
+    margin: 60px auto;
+}
+
+.p-box{
+    width: 400px;
+    border:1px solid lightgrey;
+    text-align: left;
+    padding:10px 25px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    
+
+}
+
+.p-box img{
+    height: 60px;
+    border-radius: 40px;
+    margin:40px;
+    margin-top: 15px;
+}
+.foot-pro{
+    width: 400px;
+    border:1px solid lightgrey;
+    text-align: left;
+    padding:10px 25px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.foot-pro button{
+    border:none;
+    background-color: white;
+    color:rgb(5, 120, 208);
+    padding:8px 5px;
+    font-size: 14px;
+}
